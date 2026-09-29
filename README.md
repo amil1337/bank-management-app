@@ -22,6 +22,8 @@ A Java CLI banking application with PostgreSQL database integration using Supaba
 - Supabase
 - IntelliJ IDEA
 
+<img width="1130" height="850" alt="diagram-export-9-29-2026-6_32_19-PM" src="https://github.com/user-attachments/assets/668de990-3dc8-4196-b5a4-755a1c8c693d" />
+
 ## Worth Noting
 
 - In real-world projects, `int` and `double` aren't used for money, because they can't represent fractional amounts like cents precisely. `BigDecimal` is used instead.
