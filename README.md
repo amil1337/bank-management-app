@@ -24,7 +24,7 @@ A Java CLI banking application with PostgreSQL database integration using Supaba
 
 <img width="1130" height="850" alt="diagram-export-9-29-2026-6_32_19-PM" src="https://github.com/user-attachments/assets/668de990-3dc8-4196-b5a4-755a1c8c693d" />
 
-## Worth Noting
+## What I Learned
 
 - In real-world projects, `int` and `double` aren't used for money, because they can't represent fractional amounts like cents precisely. `BigDecimal` is used instead.
 - `Optional` is used when a method might return `null`. It has built-in methods for handling the empty case without null checks.
